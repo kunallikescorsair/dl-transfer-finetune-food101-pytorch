@@ -89,3 +89,13 @@ Developed for the Deep Learning (94691) course in the Master of Data Science and
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+```
+
+Academic Integrity Notice
+This repository is shared for educational and demonstration purposes only.
+Do not copy or submit this work for academic credit. Unauthorized use may be considered academic misconduct.
+
+Author
+Kunal Gurung
+Master of Data Science and Innovation
+University of Technology Sydney
