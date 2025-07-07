@@ -91,11 +91,15 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Academic Integrity Notice
-This repository is shared for educational and demonstration purposes only.
-Do not copy or submit this work for academic credit. Unauthorized use may be considered academic misconduct.
+## Academic Integrity Notice
 
-Author
-Kunal Gurung
-Master of Data Science and Innovation
+This repository is shared publicly for learning and demonstration purposes only.  
+Unauthorized copying or direct submission of this work for academic credit is strictly prohibited and may be considered academic misconduct.
+
+---
+
+## Author
+
+Kunal Gurung  
+Master of Data Science and Innovation  
 University of Technology Sydney
